@@ -4,10 +4,10 @@ Hi, I'm Moran Farraj! 👋
 
 A dedicated developer with a passion for innovative and impactful software development.
 
-- 🎓 Completed a BSc in Information Systems at the University of Haifa (GPA - 80). Conducted research on data analysis techniques and received honors for my final year project.
-- 💻 Experienced in working with a variety of programming languages and frameworks, including Python, Java, and more. Proficient in libraries and frameworks such as Django, Spring, and TensorFlow.
+- 🎓 Completed a BSc in Information Systems at the University of Haifa (GPA - 80).
+- 💻 Experienced in working with a variety of programming languages and frameworks, including Python, Java, and more.
 - 🔍 Developed a predictive model for crime rate prediction in Israeli cities and an innovative Android application for multiplayer gamers, overcoming technical challenges and delivering impactful solutions.
-- 🤝 Enjoy collaborating with others to solve complex problems and build amazing products. Successfully led team projects and contributed to collaborative software development efforts.
+- 🤝 Enjoy collaborating with others to solve complex problems and build amazing products.
 - 🌱 Always eager to learn new things and continuously enhance my skills. Recently completed certifications in Azure AI and Nvidia’s Accelerated Data Science and Deep Learning courses.
 
 ## 🌐 Socials
